@@ -1,0 +1,8 @@
+{
+  "name": "hryup-virtual-hr",
+  "version": "1.0.0",
+  "description": "HRyUp Virtual HR Support Service full-stack feasibility study prototype",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "dev": "node server.js"},
+  "engines": {"node": ">=18"}
+}
